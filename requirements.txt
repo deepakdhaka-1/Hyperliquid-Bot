@@ -1,3 +1,4 @@
 nest_asyncio
+python-telegram-bot
 requests
 aiohttp
