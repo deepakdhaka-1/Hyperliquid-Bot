@@ -1,1 +1,2 @@
-python mainaccount.py
+web: python mainaccount.py
+
