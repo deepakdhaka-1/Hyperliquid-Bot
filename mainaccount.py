@@ -14,9 +14,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # === Configuration ===
-TELEGRAM_BOT_TOKEN = "7507216734:AAENmzI_ZMruoiBJ3vd8DDI6MxLmD0iBqvA"
-TELEGRAM_CHAT_ID = "-1002510646965"
-WALLET_ADDRESS = "0xadd5647a27987d3b5447cea68e2aaa56e9b522f3"
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
+WALLET_ADDRESS = ""
 HYPERLIQUID_API = "https://api.hyperliquid.xyz/info"
 
 nest_asyncio.apply()  # Fix for asyncio loop issues
